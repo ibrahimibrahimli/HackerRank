@@ -1,0 +1,15 @@
+C:\Users\Ibrahim\source\repos\C#ProgrammingCourse\HackerRankProblemSolving\HackerRankProblemSolving\bin\Debug\net7.0\HackerRankProblemSolving.exe
+C:\Users\Ibrahim\source\repos\C#ProgrammingCourse\HackerRankProblemSolving\HackerRankProblemSolving\bin\Debug\net7.0\HackerRankProblemSolving.deps.json
+C:\Users\Ibrahim\source\repos\C#ProgrammingCourse\HackerRankProblemSolving\HackerRankProblemSolving\bin\Debug\net7.0\HackerRankProblemSolving.runtimeconfig.json
+C:\Users\Ibrahim\source\repos\C#ProgrammingCourse\HackerRankProblemSolving\HackerRankProblemSolving\bin\Debug\net7.0\HackerRankProblemSolving.dll
+C:\Users\Ibrahim\source\repos\C#ProgrammingCourse\HackerRankProblemSolving\HackerRankProblemSolving\bin\Debug\net7.0\HackerRankProblemSolving.pdb
+C:\Users\Ibrahim\source\repos\C#ProgrammingCourse\HackerRankProblemSolving\HackerRankProblemSolving\obj\Debug\net7.0\HackerRankProblemSolving.csproj.AssemblyReference.cache
+C:\Users\Ibrahim\source\repos\C#ProgrammingCourse\HackerRankProblemSolving\HackerRankProblemSolving\obj\Debug\net7.0\HackerRankProblemSolving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrahim\source\repos\C#ProgrammingCourse\HackerRankProblemSolving\HackerRankProblemSolving\obj\Debug\net7.0\HackerRankProblemSolving.AssemblyInfoInputs.cache
+C:\Users\Ibrahim\source\repos\C#ProgrammingCourse\HackerRankProblemSolving\HackerRankProblemSolving\obj\Debug\net7.0\HackerRankProblemSolving.AssemblyInfo.cs
+C:\Users\Ibrahim\source\repos\C#ProgrammingCourse\HackerRankProblemSolving\HackerRankProblemSolving\obj\Debug\net7.0\HackerRankProblemSolving.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim\source\repos\C#ProgrammingCourse\HackerRankProblemSolving\HackerRankProblemSolving\obj\Debug\net7.0\HackerRankProblemSolving.dll
+C:\Users\Ibrahim\source\repos\C#ProgrammingCourse\HackerRankProblemSolving\HackerRankProblemSolving\obj\Debug\net7.0\refint\HackerRankProblemSolving.dll
+C:\Users\Ibrahim\source\repos\C#ProgrammingCourse\HackerRankProblemSolving\HackerRankProblemSolving\obj\Debug\net7.0\HackerRankProblemSolving.pdb
+C:\Users\Ibrahim\source\repos\C#ProgrammingCourse\HackerRankProblemSolving\HackerRankProblemSolving\obj\Debug\net7.0\HackerRankProblemSolving.genruntimeconfig.cache
+C:\Users\Ibrahim\source\repos\C#ProgrammingCourse\HackerRankProblemSolving\HackerRankProblemSolving\obj\Debug\net7.0\ref\HackerRankProblemSolving.dll
